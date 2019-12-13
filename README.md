@@ -1,29 +1,5 @@
 # project-semillero
 
-## Project setup
-```
-npm install
-```
+Frontend del  sistema de información para la gestión de semilleros del Politécnico Colombiano Jaime Isaza Cadavid
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Recuerde hacer pull  en la rama master y ejecutar el comando npm install
